@@ -47,8 +47,7 @@ body {
 img {
 border-radius: 10%;
 padding-top: 5%;
-width: 50%;
-height: 50%;
+height: 70%;
 }
 
 #rodape{
@@ -83,4 +82,5 @@ img:hover  {
     transition: transform 0.8s;
 
 }
+
 
