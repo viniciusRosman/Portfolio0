@@ -34,10 +34,15 @@ body {
     align-items: center;
 }
 
+#texto {
+    width: 50;
+}
+
 #menu {
     display: flex;
     justify-content: space-between;
     gap: 20px;
+}
 
 img {
 border-radius: 10%;
@@ -78,3 +83,4 @@ img:hover  {
     transition: transform 0.8s;
 
 }
+
